@@ -1,2 +1,2 @@
-# MLTI-OPERATING-SYSTEM
+# MULTI-OPERATING-SYSTEM
 Each  systems  has  os .  Multi dimensional  ..
